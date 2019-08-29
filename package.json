@@ -1,0 +1,23 @@
+{
+  "name": "iterativeship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn develop",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.16",
+    "@mdx-js/mdx": "^1.4.0",
+    "@mdx-js/react": "^1.4.0",
+    "gatsby": "^2.14.2",
+    "gatsby-plugin-mdx": "^1.0.33",
+    "gatsby-plugin-theme-ui": "^0.2.34",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "theme-ui": "^0.2.36"
+  }
+}
